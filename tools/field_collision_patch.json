@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "mod_version": "0.9.3",
+  "primary_geometry_hex": {
+    "0001": "01000000020000000000000000000000000034420000c8410000c542000000000000000000000000979994420000000000000000",
+    "0020": "01000000020000000000000000000000000034420000c8410000c542000000000000000000000000979994420000000000000000"
+  },
+  "files": [
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0001/collision/c_0001_201_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0001/collision/c_0001_202_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0001/collision/c_0001_203_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0001/collision/c_0001_204_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0001/collision/c_0001_205_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0001/collision/c_0001_206_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0001/collision/c_0001_207_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0001/collision/c_0001_208_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0020/collision/c_0020_201_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0020/collision/c_0020_202_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0020/collision/c_0020_203_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0020/collision/c_0020_204_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0020/collision/c_0020_205_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0020/collision/c_0020_206_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0020/collision/c_0020_207_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/COMMON/model/character/0020/collision/c_0020_208_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0001/collision/c_0001_201_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0001/collision/c_0001_202_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0001/collision/c_0001_203_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0001/collision/c_0001_204_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0001/collision/c_0001_205_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0001/collision/c_0001_206_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0001/collision/c_0001_207_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0001/collision/c_0001_208_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0020/collision/c_0020_201_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0020/collision/c_0020_202_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0020/collision/c_0020_203_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0020/collision/c_0020_204_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0020/collision/c_0020_205_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0020/collision/c_0020_206_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0020/collision/c_0020_207_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    },
+    {
+      "path": "MFEssentials/CPK/FIELD.CPK/XBOX/model/character/0020/collision/c_0020_208_F.DCL",
+      "before_sha256": "1d3ebb4453de4d3ae7ff25360c73ec70a97f99e573f144a79dc29ed63f5a0350",
+      "after_sha256": "95d3885274eb6b6c2879c60146fd8e40122c4316bc43aa54eb93e6bb70326895"
+    }
+  ]
+}
